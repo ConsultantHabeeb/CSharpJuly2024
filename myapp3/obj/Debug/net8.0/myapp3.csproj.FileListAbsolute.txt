@@ -1,0 +1,14 @@
+U:\Programs\myapp3\bin\Debug\net8.0\myapp3.exe
+U:\Programs\myapp3\bin\Debug\net8.0\myapp3.deps.json
+U:\Programs\myapp3\bin\Debug\net8.0\myapp3.runtimeconfig.json
+U:\Programs\myapp3\bin\Debug\net8.0\myapp3.dll
+U:\Programs\myapp3\bin\Debug\net8.0\myapp3.pdb
+U:\Programs\myapp3\obj\Debug\net8.0\myapp3.GeneratedMSBuildEditorConfig.editorconfig
+U:\Programs\myapp3\obj\Debug\net8.0\myapp3.AssemblyInfoInputs.cache
+U:\Programs\myapp3\obj\Debug\net8.0\myapp3.AssemblyInfo.cs
+U:\Programs\myapp3\obj\Debug\net8.0\myapp3.csproj.CoreCompileInputs.cache
+U:\Programs\myapp3\obj\Debug\net8.0\myapp3.dll
+U:\Programs\myapp3\obj\Debug\net8.0\refint\myapp3.dll
+U:\Programs\myapp3\obj\Debug\net8.0\myapp3.pdb
+U:\Programs\myapp3\obj\Debug\net8.0\myapp3.genruntimeconfig.cache
+U:\Programs\myapp3\obj\Debug\net8.0\ref\myapp3.dll
