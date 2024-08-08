@@ -16,6 +16,9 @@ public class Swapping
 
         Employee emp2 = new Employee();
 
+        emp.TestArray();
+
+        emp.TestStringArray();
 
 
         Console.WriteLine(obj.Name);
@@ -27,12 +30,12 @@ public class Swapping
     }
 
 
-   static int val1 =100, val2 =200;
+    static int val1 = 100, val2 =200;
 
     static int r = Add(in val1, in val2);
     public static int Add(in int a,in int b)
     {
-        a=20;
+     
         return a+b;
     }
 
